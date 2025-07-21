@@ -1,6 +1,6 @@
-# Neural Networks for Machine Learning
+# Neural Networks for Machine Learning 🤖🧠
 
-This repository contains my solutions for Project 5: Machine Learning, a deep learning assignment from my CMSC421: Introduction to Artificial Intelligence course. In this project, I built neural networks from scratch to tackle various machine learning tasks, demonstrating an understanding of fundamental concepts in deep learning.
+This repository contains my solutions for Project 5: Machine Learning, a deep learning assignment from my CMSC 421: Introduction to Artificial Intelligence course at the University of Maryland. In this project, I built neural networks from scratch to tackle various machine learning tasks, demonstrating an understanding of fundamental concepts in deep learning.
 
 ## Project Overview
 
