@@ -1,0 +1,18 @@
+# Python bytecode
+__pycache__/
+
+# Autograder and related files (assuming this is a course project autograder)
+autograder.py
+
+# Documentation in PDF format
+README.pdf
+
+# Temporary files
+tempCodeRunnerFile.py
+
+
+
+
+
+
+
